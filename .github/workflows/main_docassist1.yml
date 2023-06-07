@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'DocAssist1'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_03D903FD7EBA4579B87BEED6FA70DF11 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_EC6FF24601964812B2C2C11AF8C5F519 }}
